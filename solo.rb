@@ -1,0 +1,8 @@
+#role_path '/var/chef-solo/roles'
+#data_bag_path '/var/chef-solo/data_bags'
+#node_path '/var/chef-solo/nodes'
+#environment_path '/var/chef-solo/environments'
+role_path '/root/chef/roles'
+data_bag_path '/root/chef/data_bags'
+node_path '/root/chef/nodes'
+environment_path '/root/chef/environments'
